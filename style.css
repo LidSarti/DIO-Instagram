@@ -73,19 +73,19 @@ body {
 
 @keyframes friends-phrases {
     0% {
-        content: url(images/iKnow.png);
+        content: url(img/iKnow.png);
     }
 
     25% {
-        content: url(./images/mySandwich.png);
+        content: url(./img/mySandwich.png);
     }
 
     50% {
-        content: url(./images/LogoInstagram.png);
+        content: url(./img/LogoInstagram.png);
     }
 
     100% {
-        content: url(./images/howYouDoing.png);
+        content: url(./img/howYouDoing.png);
     }
 }
 
@@ -148,11 +148,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(images/AppStore.png);
+    background-image: url(img/AppStore.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(images/GooglePlay.png);
+    background-image: url(img/GooglePlay.png);
 }
 
 @media (max-width: 1024px) {
