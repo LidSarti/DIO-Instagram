@@ -11,6 +11,6 @@
 </div>
 <div>
     <h2>Resultado</h2>
-    <img src="img/ResultadoFinal01"/>
-    <img src="img/ResultadoFinal02"/>
+    <img src="img/ResultadoFinal01.gif"/>
+    <img src="img/ResultadoFinal02.gif"/>
 </div>
