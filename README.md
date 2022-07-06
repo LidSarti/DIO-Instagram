@@ -1,5 +1,5 @@
 <div>
-    <h1>🍑Página inicial do Instagram</h1>
+    <h1>🐈‍Página inicial do Instagram com o tema <i>Friends</i></h1>
     <p>Desenvolvi esse projeto dentro do Bootcamp da DIO "Impulso JavaScript Evolution", a proposta dele era desenvolver a página inicial do Instagram.</p>
     <p>Para deixar ele com a minha cara resolvi inovar um pouco e usar o tema da série Friends, para isso desenvolvi novos assets utilizando o Adobe Illustrator. Também fiz uma animação, utilizando CSS, que altera imagens com as frases icônicas da série.</p>
     <p>Gostei muito de desenvolver esse projeto, porque consegui colocar em prática todos os conhecimentos novos de HTML, CSS e Flexbox.</p>
